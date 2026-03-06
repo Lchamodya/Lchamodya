@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Lochini Chamodya
 
-### UI/UX Designer & Software Engineer
+### UI/UX Designer · Software Engineer · Sustainable & Autonomous Systems
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Designing+intuitive+experiences+%F0%9F%8E%A8;Building+robust+software+%F0%9F%9B%A0%EF%B8%8F;Exploring+IoT+%26+Autonomous+Systems+%F0%9F%A4%96;Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+%E2%86%92+Finland+%F0%9F%87%AB%F0%9F%87%AE)](https://portfolio-pi-blush-56.vercel.app/)
 

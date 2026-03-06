@@ -49,6 +49,7 @@ With a background in software engineering from the **University of Plymouth, UK*
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&amp;logo=adobe-xd&amp;logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&amp;logo=canva&amp;logoColor=white)
+![Google Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white)
 
 **Frontend**
 

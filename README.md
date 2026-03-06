@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=4A90D9&height=120&section=header&text=Lochini%20Chamodya&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=UI/UX%20Designer%20%26%20Software%20Engineer&descAlignY=85&descSize=16&descColor=d0e8ff)
+![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=4A90D9&amp;height=120&amp;section=header&amp;text=Lochini%20Chamodya&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=65&amp;desc=UI/UX%20Designer%20%26%20Software%20Engineer&amp;descAlignY=85&amp;descSize=16&amp;descColor=d0e8ff)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Designing+intuitive+experiences+%F0%9F%8E%A8;Building+robust+software+%F0%9F%9B%A0%EF%B8%8F;Exploring+IoT+%26+Autonomous+Systems+%F0%9F%A4%96;Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+%E2%86%92+Finland+%F0%9F%87%AB%F0%9F%87%AE)](https://portfolio-pi-blush-56.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;pause=1000&amp;color=4A90D9&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Designing+intuitive+experiences+%F0%9F%8E%A8;Building+robust+software+%F0%9F%9B%A0%EF%B8%8F;Exploring+IoT+%26+Autonomous+Systems+%F0%9F%A4%96;Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+%E2%86%92+Finland+%F0%9F%87%AB%F0%9F%87%AE)](https://portfolio-pi-blush-56.vercel.app/)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F5F0E8?style=for-the-badge&logo=vercel&logoColor=1A1A1A)](https://portfolio-pi-blush-56.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lochini-chamodya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F5F0E8?style=for-the-badge&amp;logo=vercel&amp;logoColor=1A1A1A)](https://portfolio-pi-blush-56.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/lochini-chamodya)
 
 </div>
 
@@ -46,40 +46,40 @@ With a background in software engineering from the **University of Plymouth, UK*
 
 **Design**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&amp;logo=adobe-xd&amp;logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&amp;logo=canva&amp;logoColor=white)
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=next.js&amp;logoColor=white)
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&amp;logo=c-sharp&amp;logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black)
 
 **IoT & Hardware**
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&amp;logo=raspberry-pi&amp;logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&amp;logo=arduino&amp;logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&amp;logo=wordpress&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white)
 
 ---
 
@@ -123,9 +123,23 @@ I design for real clients and real users. View my design portfolio:
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+<a href="https://github.com/Lchamodya">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lchamodya&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lchamodya&layout=compact&theme=vue&hide_border=true&langs_count=8"/>
+</a>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lchamodya&show_icons=true&theme=default&hide_border=true&title_color=4A90D9&icon_color=4A90D9&text_color=1A1A1A&bg_color=F5F0E8" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lchamodya&layout=compact&hide_border=true&title_color=4A90D9&text_color=1A1A1A&bg_color=F5F0E8" />
+<br/>
+
+<a href="https://github.com/Lchamodya">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lchamodya&theme=vue&hide_border=true"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Lchamodya">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lchamodya&theme=github-compact&hide_border=true&bg_color=ffffff&color=4A90D9&line=4A90D9&point=4A90D9"/>
+</a>
 
 </div>
 
@@ -146,6 +160,6 @@ I design for real clients and real users. View my design portfolio:
 
 *"Designing intuitive experiences, engineering robust systems — where creativity meets code."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=4A90D9&height=80&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&amp;color=4A90D9&amp;height=80&amp;section=footer)
 
 </div>

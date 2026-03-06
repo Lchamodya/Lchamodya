@@ -120,30 +120,7 @@ I design for real clients and real users. View my design portfolio:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-<a href="https://github.com/Lchamodya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lchamodya&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lchamodya&layout=compact&theme=vue&hide_border=true&langs_count=8"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Lchamodya">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lchamodya&theme=vue&hide_border=true"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Lchamodya">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lchamodya&theme=github-compact&hide_border=true&bg_color=ffffff&color=4A90D9&line=4A90D9&point=4A90D9"/>
-</a>
-
-</div>
-
----
 
 ## 🌍 Currently
 

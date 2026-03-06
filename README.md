@@ -66,6 +66,7 @@ With a background in software engineering from the **University of Plymouth, UK*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&amp;logo=c-sharp&amp;logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white)
+![MongoDB Stitch](https://img.shields.io/badge/MongoDB%20Stitch-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black)
 

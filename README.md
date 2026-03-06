@@ -1,18 +1,15 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4A90D9&height=120&section=header&text=Lochini%20Chamodya&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=UI/UX%20Designer%20%26%20Software%20Engineer&descAlignY=85&descSize=16&descColor=d0e8ff"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=4A90D9&height=120&section=header&text=Lochini%20Chamodya&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=UI/UX%20Designer%20%26%20Software%20Engineer&descAlignY=85&descSize=16&descColor=d0e8ff)
 
 <!-- Typing animation -->
-<a href="https://portfolio-pi-blush-56.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Designing+intuitive+experiences+%F0%9F%8E%A8;Building+robust+software+%F0%9F%9B%A0%EF%B8%8F;Exploring+IoT+%26+Autonomous+Systems+%F0%9F%A4%96;Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+%E2%86%92+Finland+%F0%9F%87%AB%F0%9F%87%AE" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Designing+intuitive+experiences+%F0%9F%8E%A8;Building+robust+software+%F0%9F%9B%A0%EF%B8%8F;Exploring+IoT+%26+Autonomous+Systems+%F0%9F%A4%96;Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+%E2%86%92+Finland+%F0%9F%87%AB%F0%9F%87%AE)](https://portfolio-pi-blush-56.vercel.app/)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F5F0E8?style=for-the-badge&logo=vercel&logoColor=1A1A1A)](https://portfolio-pi-blush-56.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lochini-chamodya)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/pixeldesign_lk)
 
 </div>
 
@@ -111,9 +108,8 @@ A pharmacy management web application with full CRUD operations for managing pha
 I design for real clients and real users. View my design portfolio:
 
 - 🌐 **Portfolio:** [portfolio-pi-blush-56.vercel.app](https://portfolio-pi-blush-56.vercel.app/)
-- 🎨 **Behance:** UI/UX projects at Pixel Designs & Codezela Technologies
 
-**Projects include:** e-commerce platforms, mobile apps, consulting websites, brand design systems
+**Projects include:** e-commerce platforms, mobile apps, consulting websites, brand design systems developed at Pixel Designs & Codezela Technologies
 
 ---
 
@@ -150,6 +146,6 @@ I design for real clients and real users. View my design portfolio:
 
 *"Designing intuitive experiences, engineering robust systems — where creativity meets code."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4A90D9&height=80&section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=4A90D9&height=80&section=footer)
 
 </div>
